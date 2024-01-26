@@ -1,4 +1,5 @@
 using eCommerce1.Data;
+using eCommerce1.Data.Migrations;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,9 +19,9 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-//using(var scope = app.Services.CreateScope())
+//using (var scope = app.Services.CreateScope())
 //{
-//    await DbSeeder.SeedDefaultData(scope.ServiceProvider);
+//    await dbseeder.SeedDefaultData(scope.ServiceProvider);
 //}
 
 // Configure the HTTP request pipeline.
