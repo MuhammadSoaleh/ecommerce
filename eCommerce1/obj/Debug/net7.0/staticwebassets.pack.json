@@ -5,16 +5,16 @@
       "PackagePath": "staticwebassets\\eCommerce1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\css\\bootstrap.min (1).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min (1).css"
     },
     {
       "Id": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
       "Id": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\lib\\bootstrap\\LICENSE",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8KiMZ8UIX7oWZs6Yt7+TduE8F/2+QFMWCMob9WvaVu4=",
+  "Hash": "XfWEZHqzOIRGO6l+jQExOPbNG2MB5qypUhfnlW7Y918=",
   "Source": "eCommerce1",
   "BasePath": "_content/eCommerce1",
   "Mode": "Default",
@@ -1071,12 +1071,12 @@
       "OriginalItemSpec": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\eCommerce1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\css\\bootstrap.min (1).css",
       "SourceId": "eCommerce1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\",
       "BasePath": "_content/eCommerce1",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/bootstrap.min (1).css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,7 +1085,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min (1).css"
     },
     {
       "Identity": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\favicon.ico",
@@ -1105,12 +1105,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "eCommerce1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\",
       "BasePath": "_content/eCommerce1",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,7 +1119,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
       "Identity": "C:\\Users\\asp.APTECHNK1\\source\\repos\\eCommerce1\\eCommerce1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
